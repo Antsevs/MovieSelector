@@ -73,7 +73,8 @@ public class MovieSelectorUI extends JFrame implements ActionListener {
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setVisible(true);
     }
-
+    //this is just a test code to see
+    //if I can code on my iPad with git
     @Override
     public void actionPerformed(ActionEvent e) {
         Random random = new Random();
